@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything that can help me learn
-- 📫 How to reach me at BenWrightSWE@gmail.com
+- 📫 How to reach me: BenWrightSWE@gmail.com
 
 <!---
 BenWrightSWE/BenWrightSWE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
