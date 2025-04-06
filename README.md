@@ -1,4 +1,5 @@
-My name is Benjamin Wright
+My name is Benjamin Wright,
+
 I am a Computer Science Major at the University of Georgia
 
 I know an assortment of languages and tools including:
